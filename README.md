@@ -1,6 +1,6 @@
 # HP Printer Keepalive
 
-Workaround for an HP LaserJet Pro MFP M227sdn that becomes unreachable after
+Workaround for an HP LaserJet Pro Multifunction Printer that becomes unreachable after
 entering sleep mode.
 
 A Raspberry Pi periodically requests the printer's web interface every 5 minutes
